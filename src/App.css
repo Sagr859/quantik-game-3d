@@ -1,0 +1,15 @@
+.App {
+  display: grid;
+  place-items: center;
+  /* height: 100vh; */
+  height: 90vh;
+  text-align: center;
+  position: relative;
+}
+
+.gizmoDiv{
+  position: absolute;
+  background-color: aliceblue;
+  left: 80%;
+  bottom: 1%;
+}
